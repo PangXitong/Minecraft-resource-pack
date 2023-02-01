@@ -6,3 +6,5 @@
 GitHub提供数据储存和历史版本记录
 
 服务器官网：http://minecraftcommunism.free.tryzth.com
+
+# 重要通知：此数据库将迁移到[http://341qwc20wv96.ngrok.xiaomiqiu123.top](http://341qwc20wv96.ngrok.xiaomiqiu123.top)
